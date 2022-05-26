@@ -1,7 +1,8 @@
-
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type usuario struct {
 	nome      string
