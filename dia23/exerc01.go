@@ -23,7 +23,7 @@ func main(){
 		id: "ab12",
 		preco: 12.90,
 		quantidade: 3,
-	}
+	} 
 
 	produto.salvarLista("./arquivo.exerc01.txt")
 

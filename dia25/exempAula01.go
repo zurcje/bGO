@@ -6,6 +6,7 @@ import (
     "os"
 )
 
+
 type myError struct {
     status int
     msg    string
